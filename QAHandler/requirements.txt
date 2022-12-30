@@ -1,0 +1,5 @@
+fastapi==0.85.2
+#farm-haystack
+uvicorn
+pydantic==1.10.2
+#pip install -r requirements.txt
